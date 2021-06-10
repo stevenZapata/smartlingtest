@@ -1,0 +1,297 @@
+{
+  "+gaGMD" : {
+    "defaultMessage" : "Ganar interes"
+  },
+  "0j8xci" : {
+    "defaultMessage" : "identifición de toque",
+    "description" : "Forma de iniciar sesión específica de Apple"
+  },
+  "3vBXgr" : {
+    "defaultMessage" : "Siempre estamos agregando nuevas criptomonedas para comerciar."
+  },
+  "47FYwb" : {
+    "defaultMessage" : "Cancel"
+  },
+  "5sg7KC" : {
+    "defaultMessage" : "Password"
+  },
+  "6+VPCR" : {
+    "defaultMessage" : "{limit} límite por retiro"
+  },
+  "62nsdy" : {
+    "defaultMessage" : "Retry"
+  },
+  "6XA43L" : {
+    "defaultMessage" : "Desbloqueo facial"
+  },
+  "77bQaX" : {
+    "defaultMessage" : "Al iniciar sesión, acepto el [Acuerdo de usuario] de Gemini (https://gemini.com/legal/user-agreement) y la [Política de privacidad] (https://gemini.com/legal/privacy-policy)."
+  },
+  "7yUNTh" : {
+    "defaultMessage" : "Regístrese para recibir una notificación cuando se lancen nuevos tokens a través de la configuración de notificaciones de su cuenta."
+  },
+  "90axO4" : {
+    "defaultMessage" : "Comercio"
+  },
+  "9AgXoz" : {
+    "defaultMessage" : "Vender"
+  },
+  "9H3bhD" : {
+    "defaultMessage" : "Forgot Password"
+  },
+  "9Qh0Ep" : {
+    "defaultMessage" : "Actualmente, este activo no está disponible para negociar en nuestras plataformas minoristas debido a la alta volatilidad del mercado debido a la migración del token KNC que es desfavorable para nuestros clientes."
+  },
+  "9QnR88" : {
+    "defaultMessage" : "A diferencia de otras criptomonedas, el valor de Gemini Dollar (GUSD) nunca cambiará. Siempre puede convertir 1 GUSD a $ 1.00 USD y viceversa. [Aprende más]()"
+  },
+  "B4S0jU" : {
+    "defaultMessage" : "Canjear {currency}"
+  },
+  "BLwtRW" : {
+    "defaultMessage" : "Saldo actual de ganancias"
+  },
+  "BPE6si" : {
+    "defaultMessage" : "Depositar {baseCurrency}"
+  },
+  "BSij1a" : {
+    "defaultMessage" : "Close"
+  },
+  "BWpuKl" : {
+    "defaultMessage" : "Update"
+  },
+  "CICBj0" : {
+    "defaultMessage" : "Fecha de caducidad"
+  },
+  "CWFzTd" : {
+    "defaultMessage" : "Administrar la configuración de la tarjeta"
+  },
+  "DcKVYk" : {
+    "defaultMessage" : "Sin límite en depósitos el mismo día"
+  },
+  "EnCOBJ" : {
+    "defaultMessage" : "Comprar"
+  },
+  "FF5vM7" : {
+    "defaultMessage" : "Los sistemas están actualmente en mantenimiento"
+  },
+  "GeqDXC" : {
+    "defaultMessage" : "{expMonth} / {expYear}"
+  },
+  "H5+NAX" : {
+    "defaultMessage" : "Equilibrio"
+  },
+  "HBxjfI" : {
+    "defaultMessage" : "Retirar {baseCurrency}"
+  },
+  "HWz6ZO" : {
+    "defaultMessage" : "Siempre estamos agregando nuevas criptomonedas para comerciar. Se le notificará cuando se lancen nuevos tokens para negociar."
+  },
+  "HksW3m" : {
+    "defaultMessage" : "Si el problema continúa, comuníquese con el soporte de Gemini."
+  },
+  "HwmpCb" : {
+    "defaultMessage" : "Retirar {baseCurrency} de Gemini Earn"
+  },
+  "Iw5SDc" : {
+    "defaultMessage" : "Tu carta de Géminis"
+  },
+  "Jo30q1" : {
+    "defaultMessage" : "Transfiera {baseCurrency} y gane {apy} APY"
+  },
+  "KEafw4" : {
+    "defaultMessage" : "Parece que ya estás registrado. Seguimos adelante y te registramos"
+  },
+  "L9Rwkm" : {
+    "defaultMessage" : "Usar PIN"
+  },
+  "LwAuNs" : {
+    "defaultMessage" : "Tenemos problemas para completar su solicitud"
+  },
+  "MAgpz4" : {
+    "defaultMessage" : "Intereses totales devengados hasta la fecha"
+  },
+  "MJ8dXJ" : {
+    "defaultMessage" : "Empiece a escribir para buscar activos"
+  },
+  "MLTKb6" : {
+    "defaultMessage" : "APY"
+  },
+  "NIynnB" : {
+    "defaultMessage" : "Current Password"
+  },
+  "NKz+Xp" : {
+    "defaultMessage" : "Vender {baseCurrency}"
+  },
+  "ODoG6H" : {
+    "defaultMessage" : "No pudimos iniciar sesión, proporcione su contraseña"
+  },
+  "OEFKTV" : {
+    "defaultMessage" : "Inicie sesión para ver su cuenta"
+  },
+  "PR2F1h" : {
+    "defaultMessage" : "{message}"
+  },
+  "PRZZg6" : {
+    "defaultMessage" : "{limit} límite por depósito"
+  },
+  "PlBReU" : {
+    "defaultMessage" : "Logout"
+  },
+  "Pq+ZEw" : {
+    "defaultMessage" : "Comprar {baseCurrency}"
+  },
+  "T3KZWy" : {
+    "defaultMessage" : "Hide"
+  },
+  "VAcIv7" : {
+    "defaultMessage" : "¿Quiere utilizar {authType} ?"
+  },
+  "VAdObK" : {
+    "defaultMessage" : "No se lo pierda: actualice las nuevas funciones."
+  },
+  "W1fhK/" : {
+    "defaultMessage" : "Convierte {baseCurrency} en otra criptografía"
+  },
+  "W9cTVS" : {
+    "defaultMessage" : "Ganar"
+  },
+  "WrGSr6" : {
+    "defaultMessage" : "Convert"
+  },
+  "XKzEUm" : {
+    "defaultMessage" : "¿No ve su activo?"
+  },
+  "XSdWHA" : {
+    "defaultMessage" : "Redimir"
+  },
+  "Y7WXOT" : {
+    "defaultMessage" : "Historial de transacciones"
+  },
+  "ZNd1y6" : {
+    "defaultMessage" : "Este dispositivo ha sido validado. Los retiros ahora son accesibles."
+  },
+  "acrOoz" : {
+    "defaultMessage" : "Continue"
+  },
+  "c+JYNI" : {
+    "defaultMessage" : "No Danki"
+  },
+  "cHOLUv" : {
+    "defaultMessage" : "¿Nuevo en Géminis?"
+  },
+  "dUCA4K" : {
+    "defaultMessage" : "Ahora no"
+  },
+  "dmS5Yt" : {
+    "defaultMessage" : "Gana saldo"
+  },
+  "fTHhSB" : {
+    "defaultMessage" : "New Password"
+  },
+  "fnIZch" : {
+    "defaultMessage" : "Agregar a Apple Wallet"
+  },
+  "g8fJgY" : {
+    "defaultMessage" : "Recompensa de tarjeta de crédito: {amount}"
+  },
+  "gZlFBP" : {
+    "defaultMessage" : "Okey"
+  },
+  "haRhJm" : {
+    "defaultMessage" : "Ver nuestra página de estado"
+  },
+  "htddcD" : {
+    "defaultMessage" : "Activos de búsqueda"
+  },
+  "huqKGl" : {
+    "defaultMessage" : "Crear una cuenta"
+  },
+  "iCDJnJ" : {
+    "defaultMessage" : "Abra {url} en su navegador."
+  },
+  "jOB9/N" : {
+    "defaultMessage" : "ID de rostro"
+  },
+  "jUKaDx" : {
+    "defaultMessage" : "Autenticacion requerida"
+  },
+  "jfB6c9" : {
+    "defaultMessage" : "Crea una cuenta de Géminis"
+  },
+  "jwimQJ" : {
+    "defaultMessage" : "Ok"
+  },
+  "kFVUwt" : {
+    "defaultMessage" : "Intereses devengados a 30 días"
+  },
+  "lAAeDZ" : {
+    "defaultMessage" : "Por favor acceda a nuestra interfaz web ActiveTrader si desea operar con KNC en nuestro intercambio mientras tanto."
+  },
+  "lpQdwF" : {
+    "defaultMessage" : "Los sistemas están experimentando actualmente un rendimiento degradado"
+  },
+  "n1u2Ui" : {
+    "defaultMessage" : "Sí, use {authType}"
+  },
+  "odM+Zi" : {
+    "defaultMessage" : "{cvv}"
+  },
+  "odXlk8" : {
+    "defaultMessage" : "Log In"
+  },
+  "prBtz1" : {
+    "defaultMessage" : "Actualice a la última versión"
+  },
+  "qBST+n" : {
+    "defaultMessage" : "Número de tarjeta"
+  },
+  "qkh65Y" : {
+    "defaultMessage" : "CVV"
+  },
+  "sWZbtq" : {
+    "defaultMessage" : "{limit} límite diario restante"
+  },
+  "sxU9Ff" : {
+    "defaultMessage" : "Sin límite para retiros el mismo día"
+  },
+  "sy+pv5" : {
+    "defaultMessage" : "Email"
+  },
+  "t57T0Y" : {
+    "defaultMessage" : "Establecer PIN en su lugar"
+  },
+  "tMAp66" : {
+    "defaultMessage" : "Tasas de interés actuales"
+  },
+  "tk4j0A" : {
+    "defaultMessage" : "Show"
+  },
+  "vi57oQ" : {
+    "defaultMessage" : "Sin límite diario"
+  },
+  "wESgUd" : {
+    "defaultMessage" : "{cardNumber}"
+  },
+  "wZzQpy" : {
+    "defaultMessage" : "Configure {authType} para iniciar sesión más rápido."
+  },
+  "xrKHS6" : {
+    "defaultMessage" : "Success"
+  },
+  "ynCJUA" : {
+    "defaultMessage" : "Huella dactilar"
+  },
+  "zDMOK3" : {
+    "defaultMessage" : "No hay resultados para \" {asset} \""
+  },
+  "zkcc33" : {
+    "defaultMessage" : "Acerca de {baseCurrency}"
+  },
+  "zpKXjS" : {
+    "defaultMessage" : "Change Your Password"
+  },
+  "test" : {
+    "deafultMessage" : "prefijo [Prueba] ( {testUrl} ) sufijo"
+  }
+}
