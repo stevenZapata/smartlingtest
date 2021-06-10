@@ -1,297 +1,297 @@
 {
   "+gaGMD" : {
-    "defaultMessage" : "Ganar interes"
+    "defaultMessage" : "Ganar interes\n\n"
   },
   "0j8xci" : {
-    "defaultMessage" : "identifición de toque",
-    "description" : "Forma de iniciar sesión específica de Apple"
+    "defaultMessage" : "identifición de toque\n\n",
+    "description" : "Forma de iniciar sesión específica de Apple\n\n"
   },
   "3vBXgr" : {
-    "defaultMessage" : "Siempre estamos agregando nuevas criptomonedas para comerciar."
+    "defaultMessage" : "Siempre estamos agregando nuevas criptomonedas para comerciar.\n\n"
   },
   "47FYwb" : {
-    "defaultMessage" : "Cancel"
+    "defaultMessage" : "Cancel\n\n"
   },
   "5sg7KC" : {
-    "defaultMessage" : "Password"
+    "defaultMessage" : "Password\n\n"
   },
   "6+VPCR" : {
-    "defaultMessage" : "{limit} límite por retiro"
+    "defaultMessage" : "{limit} límite por retiro\n\n"
   },
   "62nsdy" : {
-    "defaultMessage" : "Retry"
+    "defaultMessage" : "Retry\n\n"
   },
   "6XA43L" : {
-    "defaultMessage" : "Desbloqueo facial"
+    "defaultMessage" : "Desbloqueo facial\n\n"
   },
   "77bQaX" : {
-    "defaultMessage" : "Al iniciar sesión, acepto el [Acuerdo de usuario] de Gemini (https://gemini.com/legal/user-agreement) y la [Política de privacidad] (https://gemini.com/legal/privacy-policy)."
+    "defaultMessage" : "Al iniciar sesión, acepto el [Acuerdo de usuario](https://gemini.com/legal/user-agreement) y [la Política de privacidad de](https://gemini.com/legal/privacy-policy) Gemini.\n\n"
   },
   "7yUNTh" : {
-    "defaultMessage" : "Regístrese para recibir una notificación cuando se lancen nuevos tokens a través de la configuración de notificaciones de su cuenta."
+    "defaultMessage" : "Regístrese para recibir una notificación cuando se lancen nuevos tokens a través de la configuración de notificaciones de su cuenta.\n\n"
   },
   "90axO4" : {
-    "defaultMessage" : "Comercio"
+    "defaultMessage" : "Comercio\n\n"
   },
   "9AgXoz" : {
-    "defaultMessage" : "Vender"
+    "defaultMessage" : "Vender\n\n"
   },
   "9H3bhD" : {
-    "defaultMessage" : "Forgot Password"
+    "defaultMessage" : "Forgot Password\n\n"
   },
   "9Qh0Ep" : {
-    "defaultMessage" : "Actualmente, este activo no está disponible para negociar en nuestras plataformas minoristas debido a la alta volatilidad del mercado debido a la migración del token KNC que es desfavorable para nuestros clientes."
+    "defaultMessage" : "Actualmente, este activo no está disponible para negociar en nuestras plataformas minoristas debido a la alta volatilidad del mercado debido a la migración del token KNC que es desfavorable para nuestros clientes.\n\n"
   },
   "9QnR88" : {
-    "defaultMessage" : "A diferencia de otras criptomonedas, el valor de Gemini Dollar (GUSD) nunca cambiará. Siempre puede convertir 1 GUSD a $ 1.00 USD y viceversa. [Aprende más]()"
+    "defaultMessage" : "A diferencia de otras criptomonedas, el valor de Gemini Dollar \\(GUSD\\) nunca cambiará. Siempre puede convertir 1 GUSD a $ 1\\.00 USD y viceversa. [Aprende más]()\n\n"
   },
   "B4S0jU" : {
-    "defaultMessage" : "Canjear {currency}"
+    "defaultMessage" : "Canjear {currency}\n\n"
   },
   "BLwtRW" : {
-    "defaultMessage" : "Saldo actual de ganancias"
+    "defaultMessage" : "Saldo actual de ganancias\n\n"
   },
   "BPE6si" : {
-    "defaultMessage" : "Depositar {baseCurrency}"
+    "defaultMessage" : "Depositar {baseCurrency}\n\n"
   },
   "BSij1a" : {
-    "defaultMessage" : "Close"
+    "defaultMessage" : "Close\n\n"
   },
   "BWpuKl" : {
-    "defaultMessage" : "Update"
+    "defaultMessage" : "Update\n\n"
   },
   "CICBj0" : {
-    "defaultMessage" : "Fecha de caducidad"
+    "defaultMessage" : "Fecha de caducidad\n\n"
   },
   "CWFzTd" : {
-    "defaultMessage" : "Administrar la configuración de la tarjeta"
+    "defaultMessage" : "Administrar la configuración de la tarjeta\n\n"
   },
   "DcKVYk" : {
-    "defaultMessage" : "Sin límite en depósitos el mismo día"
+    "defaultMessage" : "Sin límite en depósitos el mismo día\n\n"
   },
   "EnCOBJ" : {
-    "defaultMessage" : "Comprar"
+    "defaultMessage" : "Comprar\n\n"
   },
   "FF5vM7" : {
-    "defaultMessage" : "Los sistemas están actualmente en mantenimiento"
+    "defaultMessage" : "Los sistemas están actualmente en mantenimiento\n\n"
   },
   "GeqDXC" : {
-    "defaultMessage" : "{expMonth} / {expYear}"
+    "defaultMessage" : "{expMonth} / {expYear}\n\n"
   },
   "H5+NAX" : {
-    "defaultMessage" : "Equilibrio"
+    "defaultMessage" : "Equilibrio\n\n"
   },
   "HBxjfI" : {
-    "defaultMessage" : "Retirar {baseCurrency}"
+    "defaultMessage" : "Retirar {baseCurrency}\n\n"
   },
   "HWz6ZO" : {
-    "defaultMessage" : "Siempre estamos agregando nuevas criptomonedas para comerciar. Se le notificará cuando se lancen nuevos tokens para negociar."
+    "defaultMessage" : "Siempre estamos agregando nuevas criptomonedas para comerciar. Se le notificará cuando se lancen nuevos tokens para negociar.\n\n"
   },
   "HksW3m" : {
-    "defaultMessage" : "Si el problema continúa, comuníquese con el soporte de Gemini."
+    "defaultMessage" : "Si el problema continúa, comuníquese con el soporte de Gemini.\n\n"
   },
   "HwmpCb" : {
-    "defaultMessage" : "Retirar {baseCurrency} de Gemini Earn"
+    "defaultMessage" : "Retirar {baseCurrency} de Gemini Earn\n\n"
   },
   "Iw5SDc" : {
-    "defaultMessage" : "Tu carta de Géminis"
+    "defaultMessage" : "Tu carta de Géminis\n\n"
   },
   "Jo30q1" : {
-    "defaultMessage" : "Transfiera {baseCurrency} y gane {apy} APY"
+    "defaultMessage" : "Transfiera {baseCurrency} y gane {apy} APY\n\n"
   },
   "KEafw4" : {
-    "defaultMessage" : "Parece que ya estás registrado. Seguimos adelante y te registramos"
+    "defaultMessage" : "Parece que ya estás registrado. Seguimos adelante y te registramos\n\n"
   },
   "L9Rwkm" : {
-    "defaultMessage" : "Usar PIN"
+    "defaultMessage" : "Usar PIN\n\n"
   },
   "LwAuNs" : {
-    "defaultMessage" : "Tenemos problemas para completar su solicitud"
+    "defaultMessage" : "Tenemos problemas para completar su solicitud\n\n"
   },
   "MAgpz4" : {
-    "defaultMessage" : "Intereses totales devengados hasta la fecha"
+    "defaultMessage" : "Intereses totales devengados hasta la fecha\n\n"
   },
   "MJ8dXJ" : {
-    "defaultMessage" : "Empiece a escribir para buscar activos"
+    "defaultMessage" : "Empiece a escribir para buscar activos\n\n"
   },
   "MLTKb6" : {
-    "defaultMessage" : "APY"
+    "defaultMessage" : "APY\n\n"
   },
   "NIynnB" : {
-    "defaultMessage" : "Current Password"
+    "defaultMessage" : "Current Password\n\n"
   },
   "NKz+Xp" : {
-    "defaultMessage" : "Vender {baseCurrency}"
+    "defaultMessage" : "Vender {baseCurrency}\n\n"
   },
   "ODoG6H" : {
-    "defaultMessage" : "No pudimos iniciar sesión, proporcione su contraseña"
+    "defaultMessage" : "No pudimos iniciar sesión, proporcione su contraseña\n\n"
   },
   "OEFKTV" : {
-    "defaultMessage" : "Inicie sesión para ver su cuenta"
+    "defaultMessage" : "Inicie sesión para ver su cuenta\n\n"
   },
   "PR2F1h" : {
-    "defaultMessage" : "{message}"
+    "defaultMessage" : "{message}\n\n"
   },
   "PRZZg6" : {
-    "defaultMessage" : "{limit} límite por depósito"
+    "defaultMessage" : "{limit} límite por depósito\n\n"
   },
   "PlBReU" : {
-    "defaultMessage" : "Logout"
+    "defaultMessage" : "Logout\n\n"
   },
   "Pq+ZEw" : {
-    "defaultMessage" : "Comprar {baseCurrency}"
+    "defaultMessage" : "Comprar {baseCurrency}\n\n"
   },
   "T3KZWy" : {
-    "defaultMessage" : "Hide"
+    "defaultMessage" : "Hide\n\n"
   },
   "VAcIv7" : {
-    "defaultMessage" : "¿Quiere utilizar {authType} ?"
+    "defaultMessage" : "¿Quiere utilizar {authType} ?\n\n"
   },
   "VAdObK" : {
-    "defaultMessage" : "No se lo pierda: actualice las nuevas funciones."
+    "defaultMessage" : "No se lo pierda: actualice las nuevas funciones.\n\n"
   },
   "W1fhK/" : {
-    "defaultMessage" : "Convierte {baseCurrency} en otra criptografía"
+    "defaultMessage" : "Convierte {baseCurrency} en otra criptografía\n\n"
   },
   "W9cTVS" : {
-    "defaultMessage" : "Ganar"
+    "defaultMessage" : "Ganar\n\n"
   },
   "WrGSr6" : {
-    "defaultMessage" : "Convert"
+    "defaultMessage" : "Convert\n\n"
   },
   "XKzEUm" : {
-    "defaultMessage" : "¿No ve su activo?"
+    "defaultMessage" : "¿No ve su activo?\n\n"
   },
   "XSdWHA" : {
-    "defaultMessage" : "Redimir"
+    "defaultMessage" : "Redimir\n\n"
   },
   "Y7WXOT" : {
-    "defaultMessage" : "Historial de transacciones"
+    "defaultMessage" : "Historial de transacciones\n\n"
   },
   "ZNd1y6" : {
-    "defaultMessage" : "Este dispositivo ha sido validado. Los retiros ahora son accesibles."
+    "defaultMessage" : "Este dispositivo ha sido validado. Los retiros ahora son accesibles.\n\n"
   },
   "acrOoz" : {
-    "defaultMessage" : "Continue"
+    "defaultMessage" : "Continue\n\n"
   },
   "c+JYNI" : {
-    "defaultMessage" : "No Danki"
+    "defaultMessage" : "No Danki\n\n"
   },
   "cHOLUv" : {
-    "defaultMessage" : "¿Nuevo en Géminis?"
+    "defaultMessage" : "¿Nuevo en Géminis?\n\n"
   },
   "dUCA4K" : {
-    "defaultMessage" : "Ahora no"
+    "defaultMessage" : "Ahora no\n\n"
   },
   "dmS5Yt" : {
-    "defaultMessage" : "Gana saldo"
+    "defaultMessage" : "Gana saldo\n\n"
   },
   "fTHhSB" : {
-    "defaultMessage" : "New Password"
+    "defaultMessage" : "New Password\n\n"
   },
   "fnIZch" : {
-    "defaultMessage" : "Agregar a Apple Wallet"
+    "defaultMessage" : "Agregar a Apple Wallet\n\n"
   },
   "g8fJgY" : {
-    "defaultMessage" : "Recompensa de tarjeta de crédito: {amount}"
+    "defaultMessage" : "Recompensa de tarjeta de crédito: {amount}\n\n"
   },
   "gZlFBP" : {
-    "defaultMessage" : "Okey"
+    "defaultMessage" : "Okey\n\n"
   },
   "haRhJm" : {
-    "defaultMessage" : "Ver nuestra página de estado"
+    "defaultMessage" : "Ver nuestra página de estado\n\n"
   },
   "htddcD" : {
-    "defaultMessage" : "Activos de búsqueda"
+    "defaultMessage" : "Activos de búsqueda\n\n"
   },
   "huqKGl" : {
-    "defaultMessage" : "Crear una cuenta"
+    "defaultMessage" : "Crear una cuenta\n\n"
   },
   "iCDJnJ" : {
-    "defaultMessage" : "Abra {url} en su navegador."
+    "defaultMessage" : "Abra {url} en su navegador.\n\n"
   },
   "jOB9/N" : {
-    "defaultMessage" : "ID de rostro"
+    "defaultMessage" : "ID de rostro\n\n"
   },
   "jUKaDx" : {
-    "defaultMessage" : "Autenticacion requerida"
+    "defaultMessage" : "Autenticacion requerida\n\n"
   },
   "jfB6c9" : {
-    "defaultMessage" : "Crea una cuenta de Géminis"
+    "defaultMessage" : "Crea una cuenta de Géminis\n\n"
   },
   "jwimQJ" : {
-    "defaultMessage" : "Ok"
+    "defaultMessage" : "Ok\n\n"
   },
   "kFVUwt" : {
-    "defaultMessage" : "Intereses devengados a 30 días"
+    "defaultMessage" : "Intereses devengados a 30 días\n\n"
   },
   "lAAeDZ" : {
-    "defaultMessage" : "Por favor acceda a nuestra interfaz web ActiveTrader si desea operar con KNC en nuestro intercambio mientras tanto."
+    "defaultMessage" : "Por favor acceda a nuestra interfaz web ActiveTrader si desea operar con KNC en nuestro intercambio mientras tanto.\n\n"
   },
   "lpQdwF" : {
-    "defaultMessage" : "Los sistemas están experimentando actualmente un rendimiento degradado"
+    "defaultMessage" : "Los sistemas están experimentando actualmente un rendimiento degradado\n\n"
   },
   "n1u2Ui" : {
-    "defaultMessage" : "Sí, use {authType}"
+    "defaultMessage" : "Sí, use {authType}\n\n"
   },
   "odM+Zi" : {
-    "defaultMessage" : "{cvv}"
+    "defaultMessage" : "{cvv}\n\n"
   },
   "odXlk8" : {
-    "defaultMessage" : "Log In"
+    "defaultMessage" : "Log In\n\n"
   },
   "prBtz1" : {
-    "defaultMessage" : "Actualice a la última versión"
+    "defaultMessage" : "Actualice a la última versión\n\n"
   },
   "qBST+n" : {
-    "defaultMessage" : "Número de tarjeta"
+    "defaultMessage" : "Número de tarjeta\n\n"
   },
   "qkh65Y" : {
-    "defaultMessage" : "CVV"
+    "defaultMessage" : "CVV\n\n"
   },
   "sWZbtq" : {
-    "defaultMessage" : "{limit} límite diario restante"
+    "defaultMessage" : "{limit} límite diario restante\n\n"
   },
   "sxU9Ff" : {
-    "defaultMessage" : "Sin límite para retiros el mismo día"
+    "defaultMessage" : "Sin límite para retiros el mismo día\n\n"
   },
   "sy+pv5" : {
-    "defaultMessage" : "Email"
+    "defaultMessage" : "Email\n\n"
   },
   "t57T0Y" : {
-    "defaultMessage" : "Establecer PIN en su lugar"
+    "defaultMessage" : "Establecer PIN en su lugar\n\n"
   },
   "tMAp66" : {
-    "defaultMessage" : "Tasas de interés actuales"
+    "defaultMessage" : "Tasas de interés actuales\n\n"
   },
   "tk4j0A" : {
-    "defaultMessage" : "Show"
+    "defaultMessage" : "Show\n\n"
   },
   "vi57oQ" : {
-    "defaultMessage" : "Sin límite diario"
+    "defaultMessage" : "Sin límite diario\n\n"
   },
   "wESgUd" : {
-    "defaultMessage" : "{cardNumber}"
+    "defaultMessage" : "{cardNumber}\n\n"
   },
   "wZzQpy" : {
-    "defaultMessage" : "Configure {authType} para iniciar sesión más rápido."
+    "defaultMessage" : "Configure {authType} para iniciar sesión más rápido.\n\n"
   },
   "xrKHS6" : {
-    "defaultMessage" : "Success"
+    "defaultMessage" : "Success\n\n"
   },
   "ynCJUA" : {
-    "defaultMessage" : "Huella dactilar"
+    "defaultMessage" : "Huella dactilar\n\n"
   },
   "zDMOK3" : {
-    "defaultMessage" : "No hay resultados para \" {asset} \""
+    "defaultMessage" : "No hay resultados para \" {asset} \"\n\n"
   },
   "zkcc33" : {
-    "defaultMessage" : "Acerca de {baseCurrency}"
+    "defaultMessage" : "Acerca de {baseCurrency}\n\n"
   },
   "zpKXjS" : {
-    "defaultMessage" : "Change Your Password"
+    "defaultMessage" : "Change Your Password\n\n"
   },
   "test" : {
-    "deafultMessage" : "prefijo [Prueba] ( {testUrl} ) sufijo"
+    "deafultMessage" : "prefijo Sufijo de [prueba]({testUrl})\n\n"
   }
 }
