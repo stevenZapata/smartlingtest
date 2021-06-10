@@ -1,0 +1,297 @@
+{
+  "+gaGMD": {
+    "defaultMessage": "Earn interest"
+  },
+  "0j8xci": {
+    "defaultMessage": "Touch ID",
+    "description": "Apple-specific way of logging in"
+  },
+  "3vBXgr": {
+    "defaultMessage": "We're always adding new cryptos to trade."
+  },
+  "47FYwb": {
+    "defaultMessage": "Cancel"
+  },
+  "5sg7KC": {
+    "defaultMessage": "Password"
+  },
+  "6+VPCR": {
+    "defaultMessage": "{limit} limit per withdrawal"
+  },
+  "62nsdy": {
+    "defaultMessage": "Retry"
+  },
+  "6XA43L": {
+    "defaultMessage": "Face unlock"
+  },
+  "77bQaX": {
+    "defaultMessage": "By logging in, I agree to Gemini's [User Agreement](https://gemini.com/legal/user-agreement) and [Privacy Policy](https://gemini.com/legal/privacy-policy)."
+  },
+  "7yUNTh": {
+    "defaultMessage": "Sign up to be notified when new tokens launch via your account notifications settings."
+  },
+  "90axO4": {
+    "defaultMessage": "Trade"
+  },
+  "9AgXoz": {
+    "defaultMessage": "Sell"
+  },
+  "9H3bhD": {
+    "defaultMessage": "Forgot password"
+  },
+  "9Qh0Ep": {
+    "defaultMessage": "This asset is currently not available for trading on our retail platforms due to high market volatility from the KNC token migration that is unfavorable for our customers."
+  },
+  "9QnR88": {
+    "defaultMessage": "Unlike other cryptos, the value of Gemini Dollar (GUSD) will never change. You can always convert 1 GUSD to $1.00 USD and vice versa. [Learn more]()"
+  },
+  "B4S0jU": {
+    "defaultMessage": "Redeem {currency}"
+  },
+  "BLwtRW": {
+    "defaultMessage": "Current Earn balance"
+  },
+  "BPE6si": {
+    "defaultMessage": "Deposit {baseCurrency}"
+  },
+  "BSij1a": {
+    "defaultMessage": "close"
+  },
+  "BWpuKl": {
+    "defaultMessage": "Update"
+  },
+  "CICBj0": {
+    "defaultMessage": "Expiration date"
+  },
+  "CWFzTd": {
+    "defaultMessage": "Manage card settings"
+  },
+  "DcKVYk": {
+    "defaultMessage": "No limit on same day deposits"
+  },
+  "EnCOBJ": {
+    "defaultMessage": "Buy"
+  },
+  "FF5vM7": {
+    "defaultMessage": "Systems are currently under maintenance"
+  },
+  "GeqDXC": {
+    "defaultMessage": "{expMonth}/{expYear}"
+  },
+  "H5+NAX": {
+    "defaultMessage": "Balance"
+  },
+  "HBxjfI": {
+    "defaultMessage": "Withdraw {baseCurrency}"
+  },
+  "HWz6ZO": {
+    "defaultMessage": "We're always adding new cryptos to trade. You'll be notified when new tokens launch for trading."
+  },
+  "HksW3m": {
+    "defaultMessage": "If the problem continues, please contact Gemini support."
+  },
+  "HwmpCb": {
+    "defaultMessage": "Withdraw {baseCurrency} from Gemini Earn"
+  },
+  "Iw5SDc": {
+    "defaultMessage": "Your Gemini card"
+  },
+  "Jo30q1": {
+    "defaultMessage": "Transfer {baseCurrency} and earn {apy}APY"
+  },
+  "KEafw4": {
+    "defaultMessage": "Looks like you’re already signed up. We went ahead and signed you in"
+  },
+  "L9Rwkm": {
+    "defaultMessage": "Use PIN"
+  },
+  "LwAuNs": {
+    "defaultMessage": "We’re having trouble completing your request"
+  },
+  "MAgpz4": {
+    "defaultMessage": "Total interest earned to date"
+  },
+  "MJ8dXJ": {
+    "defaultMessage": "Start typing to search for assets"
+  },
+  "MLTKb6": {
+    "defaultMessage": "APY"
+  },
+  "NIynnB": {
+    "defaultMessage": "Current password"
+  },
+  "NKz+Xp": {
+    "defaultMessage": "Sell {baseCurrency}"
+  },
+  "ODoG6H": {
+    "defaultMessage": "We were unable to log you in, please provide your password"
+  },
+  "OEFKTV": {
+    "defaultMessage": "Log on to view your account"
+  },
+  "PR2F1h": {
+    "defaultMessage": "{message}"
+  },
+  "PRZZg6": {
+    "defaultMessage": "{limit} limit per deposit"
+  },
+  "PlBReU": {
+    "defaultMessage": "Log out"
+  },
+  "Pq+ZEw": {
+    "defaultMessage": "Buy {baseCurrency}"
+  },
+  "T3KZWy": {
+    "defaultMessage": "HIDE"
+  },
+  "VAcIv7": {
+    "defaultMessage": "Want to use {authType}?"
+  },
+  "VAdObK": {
+    "defaultMessage": "Don't miss out - update for new features."
+  },
+  "W1fhK/": {
+    "defaultMessage": "Convert {baseCurrency} to another crypto"
+  },
+  "W9cTVS": {
+    "defaultMessage": "Earn"
+  },
+  "WrGSr6": {
+    "defaultMessage": "Convert"
+  },
+  "XKzEUm": {
+    "defaultMessage": "Don't see your asset?"
+  },
+  "XSdWHA": {
+    "defaultMessage": "Redeem"
+  },
+  "Y7WXOT": {
+    "defaultMessage": "Transaction history"
+  },
+  "ZNd1y6": {
+    "defaultMessage": "This device has been validated. Withdrawals are now accessible."
+  },
+  "acrOoz": {
+    "defaultMessage": "Continue"
+  },
+  "c+JYNI": {
+    "defaultMessage": "No thanks"
+  },
+  "cHOLUv": {
+    "defaultMessage": "New to Gemini?"
+  },
+  "dUCA4K": {
+    "defaultMessage": "Not now"
+  },
+  "dmS5Yt": {
+    "defaultMessage": "Earn balance"
+  },
+  "fTHhSB": {
+    "defaultMessage": "New password"
+  },
+  "fnIZch": {
+    "defaultMessage": "Add to Apple Wallet"
+  },
+  "g8fJgY": {
+    "defaultMessage": "Credit Card Reward: {amount}"
+  },
+  "gZlFBP": {
+    "defaultMessage": "Okay"
+  },
+  "haRhJm": {
+    "defaultMessage": "View our Status Page"
+  },
+  "htddcD": {
+    "defaultMessage": "Search assets"
+  },
+  "huqKGl": {
+    "defaultMessage": "Create account"
+  },
+  "iCDJnJ": {
+    "defaultMessage": "Please open {url} in your browser"
+  },
+  "jOB9/N": {
+    "defaultMessage": "Face ID"
+  },
+  "jUKaDx": {
+    "defaultMessage": "Authentication required"
+  },
+  "jfB6c9": {
+    "defaultMessage": "Create a Gemini account"
+  },
+  "jwimQJ": {
+    "defaultMessage": "Ok"
+  },
+  "kFVUwt": {
+    "defaultMessage": "30-day interest earned"
+  },
+  "lAAeDZ": {
+    "defaultMessage": "Please access our ActiveTrader web interface if you wish to trade KNC on our exchange in the meantime."
+  },
+  "lpQdwF": {
+    "defaultMessage": "Systems are currently experiencing degraded performance"
+  },
+  "n1u2Ui": {
+    "defaultMessage": "Yes, Use {authType}"
+  },
+  "odM+Zi": {
+    "defaultMessage": "{cvv}"
+  },
+  "odXlk8": {
+    "defaultMessage": "Log in"
+  },
+  "prBtz1": {
+    "defaultMessage": "Upgrade to the latest version"
+  },
+  "qBST+n": {
+    "defaultMessage": "Card number"
+  },
+  "qkh65Y": {
+    "defaultMessage": "CVV"
+  },
+  "sWZbtq": {
+    "defaultMessage": "{limit} remaining daily limit"
+  },
+  "sxU9Ff": {
+    "defaultMessage": "No limit on same day withdrawals"
+  },
+  "sy+pv5": {
+    "defaultMessage": "Email"
+  },
+  "t57T0Y": {
+    "defaultMessage": "Set PIN instead"
+  },
+  "tMAp66": {
+    "defaultMessage": "Current interest rates"
+  },
+  "tk4j0A": {
+    "defaultMessage": "SHOW"
+  },
+  "vi57oQ": {
+    "defaultMessage": "No daily limit"
+  },
+  "wESgUd": {
+    "defaultMessage": "{cardNumber}"
+  },
+  "wZzQpy": {
+    "defaultMessage": "Set up {authType} to sign in faster."
+  },
+  "xrKHS6": {
+    "defaultMessage": "Success"
+  },
+  "ynCJUA": {
+    "defaultMessage": "Fingerprint"
+  },
+  "zDMOK3": {
+    "defaultMessage": "No results for \"{asset}\""
+  },
+  "zkcc33": {
+    "defaultMessage": "About {baseCurrency}"
+  },
+  "zpKXjS": {
+    "defaultMessage": "Change your password"
+  },
+  "test": {
+      "deafultMessage": "prefix [Test]({testUrl}) suffix"
+  }
+}
